@@ -8,6 +8,13 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
+<br>
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=285644666&show_icons=true&hide_border=true)
+
+<br>
+
 <!--
 **285644666/285644666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
