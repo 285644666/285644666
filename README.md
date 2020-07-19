@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋&nbsp;
 ### Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a href="https://www.linkedin.com/in/jiang285644666/">
