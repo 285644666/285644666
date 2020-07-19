@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/jiang285644666/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.kaggle.com/jjytton">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 
 <!--
 **285644666/285644666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
