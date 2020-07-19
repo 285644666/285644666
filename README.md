@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/jiang285644666/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 <!--
 **285644666/285644666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
